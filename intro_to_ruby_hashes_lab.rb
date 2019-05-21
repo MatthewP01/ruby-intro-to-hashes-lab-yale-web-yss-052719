@@ -10,7 +10,7 @@ end
 def monopoly
   {:railroads =>
     {:pieces=> 4},
-    {:names=>{}},
+    {:names=>{}}
     {:rent_in_dollars=>{}}
   }
 
